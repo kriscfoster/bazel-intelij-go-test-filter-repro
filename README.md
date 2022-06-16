@@ -18,7 +18,7 @@ PASS
 ...
 ```
 
-## using intlij plugin
+## using intelij plugin
 
 <img width="842" alt="Screenshot 2022-06-16 at 08 21 01" src="https://user-images.githubusercontent.com/17026751/174014898-0832bfed-fa38-4c21-82fe-e7ef2887118c.png">
 
